@@ -68,3 +68,5 @@ By completing this task, we’ve gained hands-on experience with one of the most
 We explored not just the algorithmic theory but also implementation, evaluation, and tuning — covering a full development cycle for a machine learning-based recommendation engine. This project completes our internship with a comprehensive understanding of supervised learning, NLP, deep learning, and recommender systems — all critical pillars in the machine learning landscape.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/489f8769-a8bf-45ce-ab87-9ae06826a515)
