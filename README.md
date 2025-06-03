@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: VAMSI PUTTEPU
+*NAME*: Puttepu Venkata Balarama Vamsi
 
 *INTERN ID*: CT04DN135
 
